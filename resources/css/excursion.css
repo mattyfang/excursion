@@ -1,0 +1,54 @@
+.verdana {
+  font-family: Verdana;
+}
+
+.maintitle {
+  font-size: 50px;
+}
+
+.hyperlink {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.travelguide {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.description {
+  font-size: 21px;
+  color: Gray;
+}
+
+.gray {
+  color: gray;
+}
+
+.right {
+  text-align: right;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.center {
+  text-align: center;
+}
+
+.backgroundcolor {
+  background-color: black;
+}
+
+.fontcolor {
+  color: white;
+}
+
+html {
+  background-color: black;
+}
+body {
+  text-align: center;
+}
